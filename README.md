@@ -1,6 +1,6 @@
-# TimeMapper2
+# TimeJourney
 
-This template should help get you started developing with Vue 3 in Vite.
+A Stpritelling tool for interactive media uniting timelines and maps.
 
 ## Recommended IDE Setup
 

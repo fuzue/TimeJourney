@@ -1,6 +1,6 @@
 # TimeJourney
 
-A Stpritelling tool for interactive media uniting timelines and maps.
+A Storytelling tool for interactive media uniting timelines and maps.
 
 ## Recommended IDE Setup
 
